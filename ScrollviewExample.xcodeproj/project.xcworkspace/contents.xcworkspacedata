@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ScrollviewExample.xcodeproj">
+      location = "self:/Users/service/Documents/iOS Projects/ScrollviewExample/ScrollviewExample.xcodeproj">
    </FileRef>
 </Workspace>
